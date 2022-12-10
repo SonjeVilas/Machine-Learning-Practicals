@@ -1,0 +1,7 @@
+time,whether,temprature,company,humidity,wind,goes
+morning,sunny,warn,yes,mild,strong,yes
+evening,rainy,cold,no,mild,normal,no
+morning,sunny,modrate,yes,normal,normal,yes
+evening,sunny,cold,yes,high,normal,yes
+evening,sunny,cold,yes,high,strong,yes
+evening,rainy,cold,no,normal,normal,no
